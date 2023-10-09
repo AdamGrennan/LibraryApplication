@@ -1,5 +1,4 @@
-//jj
-//lol
+
 #define _CRT_SECURE_NO_WARNINGS 1
 #define bool int
 #define false 0
